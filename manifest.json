@@ -1,0 +1,10 @@
+{
+    "name": "meltdown_music",
+    "version_number": "1.0.2",
+    "website_url": "https://github.com/skypenguin412/meltdown_music",
+    "description": " ",
+    "dependencies": [
+        "loaforc-FacilityMeltdown-2.4.3",
+        "loaforc-loaforcsSoundAPI-0.1.3"
+    ]
+}
